@@ -1,0 +1,223 @@
+
+.weblogo{
+    width: 65px;
+}
+
+.navbar{
+    background: #00000082 !important;
+}
+
+.navbar-nav li{
+    padding: 0 10px;
+    
+}
+
+.navbar-nav li a{
+    color: #fff!important;
+    font-weight: 100;
+    font-size: 16px;
+}
+
+
+
+.moblogo{
+    display: none;
+}
+
+
+
+.z{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: prague;
+    letter-spacing: 3px;
+}
+.img123{
+    width: 80%;
+}
+.b{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: justify;
+}
+
+.c{
+    background: url(https://pn-paul.netlify.app/image/ffback2.png);
+    width: 100%;
+    margin-top: 72px;
+    
+    
+}
+
+.d{
+    line-height: 35px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: center;
+    color:white;
+    margin-top: 130px;
+}
+
+.e{
+    line-height: 40px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    text-align: center;
+    color: white;
+    margin-top: 10px;
+
+}
+
+.ex{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.our{
+    padding-top: 20px;
+    text-transform: uppercase;
+    font-family: 'prague';
+    letter-spacing: 3px;
+}
+
+.contact{
+    text-transform: uppercase;
+    padding-top: 20px;
+    font-family: prague;
+    letter-spacing: 3px;
+}
+
+.aa{
+    background-image: url(https://pn-paul.netlify.app/image/ourimage.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 650px;
+
+}
+
+.bb{
+    background-image: url(https://pn-paul.netlify.app/image/gamebanner.jpg);
+    width: 100%;
+    
+}
+
+.cc{
+    background-image: url(https://pn-paul.netlify.app/image/brands.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 650px;
+}
+
+.dd{
+    background-image: url(https://pn-paul.netlify.app/image/new-our-team.jpg);
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 650px;
+}
+
+.photo1{
+    background-image:url(https://pn-paul.netlify.app/image/YPAshok.jpg) ;
+     width: 100%;
+     height:8.8cm;
+     background-position: center;
+     background-size: cover;
+}
+
+.photo2{
+    background-image:url(https://pn-paul.netlify.app/image/B.R.-Sachdeva.jpg) ;
+    background-position: center;
+    background-size: cover;
+    height: 8.8cm;
+    width: 100%;
+}
+
+.photo3{
+    background-image:url(https://pn-paul.netlify.app/image/Sagar-Bajaj.jpg) ;
+    background-position: center;
+    background-size: cover;
+    height: 8.8cm;
+    width: 100%;
+}
+
+.photo4{
+    background-image:url(https://pn-paul.netlify.app/image/JAY-PHOTO-1-1.jpg) ;
+    background-position: center;
+    background-size: cover;
+    height: 8.8cm;
+    width: 100%;
+}
+
+.photo5{
+    background-image:url(https://pn-paul.netlify.app/image/vibhutiPR.jpg) ;
+    background-position: center;
+    background-size: cover;
+    height: 8.8cm;
+    width: 100%;
+}
+
+.ee{
+    background-image:url(https://pn-paul.netlify.app/image/CONTACT-US.jpg) ;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 620px;
+}
+
+.ff{
+    
+    line-height: 20px;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+    padding-right: 5px;
+    margin-top: 20px;
+    font-weight: lighter;
+    padding-bottom: 2cm;
+}
+
+.gg{
+    background-image:url(https://pn-paul.netlify.app/image/new-careers-1.jpg) ;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 620px;
+}
+
+.hh{
+    background-image:url(https://pn-paul.netlify.app/image/press-new-1.jpg) ;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+    height: 620px;
+
+}
+
+
+
+@media(max-width:768px)
+{
+    .img123{
+        width: 100%;
+        margin-top: 20px;
+    }
+
+    .moblogo{
+        display: block;
+    }
+
+    .weblogo{
+        display: none;
+    }
+
+    .navbar{
+        background: #fec322!important;
+    }
+}
